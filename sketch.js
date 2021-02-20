@@ -4,8 +4,8 @@ var database, position
 var backgr0und, backgroundImage
 
 function preload() {
-  backgroundImage = loadImage("images/Hot Air Ballon-01.png");
-  balloonImage = loadAnimation("images/Hot Air Ballon-02.png", "images/Hot Air Ballon-03.png", "images/Hot Air Ballon-04.png");
+  backgroundImage = loadImage("Hot Air Ballon-01.png");
+  balloonImage = loadAnimation("Hot Air Ballon-02.png", "Hot Air Ballon-03.png", "Hot Air Ballon-04.png");
 }
 
 function setup() {
